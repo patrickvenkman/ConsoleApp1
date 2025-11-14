@@ -7,3 +7,6 @@ float netSalary = (baseSalary + (baseSalary * hra));
 Console.WriteLine("Base Salary:" + baseSalary);
 Console.WriteLine("Net Salary:" + netSalary);
 
+Console.WriteLine("Base Salary:" + baseSalary);
+Console.WriteLine("Net Salary:" + netSalary);
+
