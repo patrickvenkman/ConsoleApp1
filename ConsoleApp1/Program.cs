@@ -13,6 +13,10 @@ Console.WriteLine("Net Salary:" + netSalary);
 float baseSalary = 50000.0F;
 float hra = 0.30F;
 float netSalary = (baseSalary + (baseSalary * hra));
+float hra = 0.30F;
+float netSalary = (baseSalary + (baseSalary * hra));
+float baseSalary = 50000.0F;
+
 
 
 
